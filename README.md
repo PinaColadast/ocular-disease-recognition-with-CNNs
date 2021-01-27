@@ -1,6 +1,9 @@
 # ocular-disease-recognition-with-CNNs
 
-Started with a kaggle challenge, deep learning project
-code available for model training and evaluation
+Started with a kaggle challenge: Ocular Disease Recognition from Fundus Images with Convolutional Neural Networks
 
-enhanced model intepretability with Grad-CAM
+A deep learning project
+
+Code available for model training and evaluation
+
+Enhanced model intepretability with Grad-CAM
