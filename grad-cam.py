@@ -28,7 +28,6 @@ import pandas as pd
    the whole dataset used for reproduce the result can be downloaded via Googledrive: 
    for images(please download in a folder): https://drive.google.com/drive/folders/1cuCfvs5qR4BXxOk-_-ALzbZr5DdxsgXG?usp=sharing
    for csv full_df.csv describing metadata: https://drive.google.com/file/d/1-XEKHT-EVWx2M-PmVYV1m4buBLW-QGqa/view?usp=sharing
-   for multiclass_augmented_model.pth please download via: https://drive.google.com/file/d/11AILo4PDkUekN3G-O41LMM0PaW-kXuWA/view?usp=sharing
 """
 
 #set global variables
